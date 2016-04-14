@@ -1,0 +1,9 @@
+[
+	{"Level":0,	"NeedScore":0,		"GiveColor" : ["Red"],		"AddSpawnColor":["Red"]},
+	{"Level":1, "NeedScore":100,	"GiveColor" : ["Yellow"],	"AddSpawnColor":["Yellow"]},
+	{"Level":2, "NeedScore":250,	"GiveColor" : [],			"AddSpawnColor":["Orange"]},
+	{"Level":3, "NeedScore":400,	"GiveColor" : ["Blue"],		"AddSpawnColor":["Blue"]},
+	{"Level":4, "NeedScore":600,	"GiveColor" : [],			"AddSpawnColor":["Green"]},
+	{"Level":5, "NeedScore":800,	"GiveColor" : [],			"AddSpawnColor":["Purple"]},
+	{"Level":6, "NeedScore":1000,	"GiveColor" : [],			"AddSpawnColor":[]}
+]

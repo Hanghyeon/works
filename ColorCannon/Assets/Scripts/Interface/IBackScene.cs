@@ -1,0 +1,5 @@
+﻿
+interface IBackScene
+{
+    void OnBack();
+}
